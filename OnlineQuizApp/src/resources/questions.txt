@@ -1,0 +1,10 @@
+What is the size of int in Java?;8 bit;16 bit;32 bit;64 bit;2
+Which keyword is used to inherit a class in Java?;this;super;extends;implements;2
+Which method is the entry point for a Java program?;main();start();run();init();0
+Which of these is a Java access modifier?;public;private;protected;All of the above;3
+Which of these is not a Java primitive type?;int;float;String;double;2
+Which package is imported by default in Java?;java.lang;java.util;java.io;java.net;0
+Which operator is used for comparison in Java?;==;=;!=;<>;0
+Which keyword is used to prevent inheritance in Java?;static;final;private;abstract;1
+Which of the following is not a loop in Java?;for;while;do-while;foreach;3
+Which exception is thrown when dividing by zero in Java?;NullPointerException;ArithmeticException;IOException;NumberFormatException;1
